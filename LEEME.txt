@@ -1,0 +1,57 @@
+==========================================================
+              🐹NEGATIVE CONVERTER SUITE🐹
+                 by Evil Cuy Studios
+==========================================================
+
+¡Gracias por descargar Negative Converter Suite! 
+La herramienta definitiva para procesar tus archivos con
+estilo y eficiencia.
+
+----------------------------------------------------------
+1. 🚀 INSTALACIÓN RÁPIDA
+----------------------------------------------------------
+Este programa es PORTABLE, lo que significa que no 
+necesitas instalar nada en tu sistema.
+
+PASOS:
+1. Extrae el contenido del archivo .zip en una carpeta.
+2. Haz doble clic en "Negative Converter Suite.exe".
+3. ¡Listo! El programa comenzará a trabajar.
+4. Puedes leer el tutorial, así como también desactivar los sonidos
+de cuy que vienen por defecto con el programa.
+
+----------------------------------------------------------
+2. 🛠️ CARACTERÍSTICAS PRINCIPALES
+----------------------------------------------------------
+* Conversión de archivos PDF a negativo de alta calidad.
+* Interfaz moderna y optimizada.
+* Creación automática de acceso directo en el escritorio.
+* Sistema de notificaciones sonoras integradas. (cui cui)
+
+----------------------------------------------------------
+3. 📂 ORGANIZACIÓN DE ARCHIVOS
+----------------------------------------------------------
+Al usar el programa, verás que se gestionan una carpeta de salida:
+📁 output/  -> ¡Aquí aparecerán tus archivos convertidos!
+Puedes escoger tu propia carpeta de salida.
+
+----------------------------------------------------------
+4. ❓ PREGUNTAS FRECUENTES
+----------------------------------------------------------
+¿Dónde quedó mi acceso directo?
+A los 3 segundos de abrir el programa, aparecerá una 
+ventana preguntándote si quieres crearlo. Si aceptas, 
+aparecerá un icono del Cuy en tu escritorio.
+
+----------------------------------------------------------
+5. ✉️ SOPORTE Y CONTACTO
+----------------------------------------------------------
+Proyecto de felicidad iniciado el: 4 de diciembre de 2024.
+Desarrollado con Python y CustomTkinter.
+
+Si encuentras algún error o tienes sugerencias,
+visita el repositorio oficial en GitHub.
+
+==========================================================
+        ¡Disfruta de la conversión de otro nivel!
+==========================================================
